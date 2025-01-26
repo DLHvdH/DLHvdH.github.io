@@ -76,7 +76,7 @@ education:
   - area: M.Sc. Chemical Engineering
     institution: Eindhoven University of Technology
     date_start: 2017-09-01
-    date_end: 2020-06-31
+    date_end: 2020-06-30
     summary: |
       GPA: 8.0/10.0
       
