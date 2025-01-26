@@ -100,28 +100,19 @@ education:
       Thesis: "The characterization and enzymatic activity of non-covalently bound protein-polymer hybrids"
       Supervised by [Prof. I.K. Voets](https://www.tue.nl/en/research/researchers/ilja-voets).
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Postdoctoral Research Fellow
+    company_name: ETH Zurich & Collegium Helveticum
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2024-09-02
     date_end: ''
     summary: |
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Developing a fast hierarchical multiscale model of granular matter to improve predictions of e.g. sand. I use the discrete element method (DEM) to derive the constituitive behaviour while the finite element method (FEM) provides the boundary conditions. Advanced statistical methods are then used to reduce the number of required DEM simulations.
+
+      Supervised by [Prof. David Kammer](https://ifb.ethz.ch/the-institute/people/person-detail.MjUwODc1.TGlzdC8xMDYwLC0xNTk5MjE4NDY3.html).
+    button:
+      text: 'Project Website'
+      url: 'https://collegium.ethz.ch/projects/fellow-year-2024-2025/saving-sand'
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
