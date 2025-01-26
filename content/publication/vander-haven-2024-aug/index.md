@@ -2,7 +2,7 @@
 title: 'Tablet ejection: A systematic comparison between force, static friction, and
   kinetic friction'
 authors:
-- Dingeman L. H. van der Haven
+- admin
 - René Jensen
 - Maria Mikoroni
 - Umair Zafar

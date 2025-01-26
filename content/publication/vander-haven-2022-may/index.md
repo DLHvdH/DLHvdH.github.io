@@ -2,7 +2,7 @@
 title: Predictive modelling of powder compaction for binary mixtures using the finite
   element method
 authors:
-- Dingeman L. H. van der Haven
+- admin
 - Frederik H. Ørtoft
 - Kaisa Naelapää
 - Ioannis S. Fragkopoulos

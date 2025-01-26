@@ -2,7 +2,7 @@
 title: Multi-component mixing and demixing model for predictive finite element modelling
   of pharmaceutical powder compaction
 authors:
-- Dingeman L. H. van der Haven
+- admin
 - Maria Mikoroni
 - Andrew Megarry
 - Ioannis S. Fragkopoulos

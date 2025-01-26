@@ -10,7 +10,7 @@ authors:
 - Carlos Andrés del Valle
 - Jérôme Duriez
 - Anton Gladky
-- Dingeman L. H. van der Haven
+- admin
 - Janek Kozicki
 - Gerald Pekmezi
 - Luc Scholtès

@@ -2,7 +2,7 @@
 title: A physically consistent Discrete Element Method for arbitrary shapes using
   Volume-interacting Level Sets
 authors:
-- Dingeman L. H. van der Haven
+- admin
 - Ioannis S. Fragkopoulos
 - James A. Elliott
 date: '2023-09-01'
