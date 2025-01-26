@@ -41,9 +41,8 @@ profiles:
     url: https://www.linkedin.com/in/danny-vd-haven/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=bOlnJwcAAAAJ&hl=en
-    - icon: custom/researchgate
-    url:   - icon: academicons/orcid
-    url: https://orcid.org/my-orcid?orcid=0000-0002-5120-4279
+  - icon: custom/researchgate
+    url: https://www.researchgate.net/profile/Danny-Van-Der-Haven
   - icon: academicons/orcid
     url: https://orcid.org/my-orcid?orcid=0000-0002-5120-4279
 
