@@ -3,7 +3,7 @@
 title: Dingeman L.H. van der Haven
 
 # Name pronunciation (optional)
-name_pronunciation: Danny
+name_pronunciation: Danny van der Haven
 
 # Full name (for SEO)
 first_name: Dingeman Danny
@@ -24,7 +24,7 @@ role: Postdoctoral Research Fellow
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Collegium Helveticum & ETH Zurich
+  - name: ETH Zurich & Collegium Helveticum 
     url: https://www.collegium.ethz.ch/fellows/fellow-year-2024-2025/danny-van-der-haven
 
 # Social network links
@@ -33,24 +33,24 @@ profiles:
   - icon: at-symbol
     url: 'mailto:vanderhaven@collegium.ethz.ch'
     label: E-mail Me
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=bOlnJwcAAAAJ&hl=en
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/danny-vd-haven/
+  - icon: custom/researchgate
+    url: https://www.researchgate.net/profile/Danny-Van-Der-Haven
   - icon: custom/gitlab
     url: https://gitlab.com/DLHvdH
   - icon: brands/github
     url: https://github.com/DLHvdH
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/danny-vd-haven/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=bOlnJwcAAAAJ&hl=en
-  - icon: custom/researchgate
-    url: https://www.researchgate.net/profile/Danny-Van-Der-Haven
   - icon: academicons/orcid
     url: https://orcid.org/my-orcid?orcid=0000-0002-5120-4279
 
 interests:
   - Granular matter
   - Computational Mechanics
-  - Model parametrisation
-  - Advanced characterisation methods
+  - Mechanical Processing
+  - Particle characterisation
 
 education:
   - area: Ph.D. Computational Methods for Materials Science
@@ -58,10 +58,14 @@ education:
     date_start: 2021-10-01
     date_end: 2024-08-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis: "On the Compaction of Granular Matter; Continuum and Discrete Numerical Modelling"
+
+      Worked on the compaction process of pharmaceutical powders into tablets. My thesis describes the numerical methods developed, particularly with a focus on powder mixture behaviour and particle shape. I also experimentally studied tablet-tooling friction during ejection.
+
+      Supervised by [Prof. J.A. Elliott](https://www.msm.cam.ac.uk/people/elliott), in close collaboration with Novo Nordisk, [Dr. Ioannis Fragkopoulos](https://www.linkedin.com/in/ioannisfragkopoulos?originalSubdomain=dk).
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
+      url: 'http://dx.doi.org/10.13140/RG.2.2.23521.52321'
   - area: M.Phil. Scientific Computing
     institution: University of Cambridge
     date_start: 2020-10-01
@@ -69,32 +73,32 @@ education:
     summary: |
       Distinction
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Thesis: "Predictive modelling of pharmaceutical powder formulations: finite element simulations of the compaction of elastic/plastic binary mixtures"
+      Supervised by [Prof. J.A. Elliott](https://www.msm.cam.ac.uk/people/elliott), in close collaboration with Novo Nordisk, [Dr. Ioannis Fragkopoulos](https://www.linkedin.com/in/ioannisfragkopoulos?originalSubdomain=dk).
+    button:
+      text: 'Read Thesis'
+      url: 'http://dx.doi.org/10.13140/RG.2.2.30309.00489'
   - area: M.Sc. Chemical Engineering
     institution: Eindhoven University of Technology
     date_start: 2017-09-01
     date_end: 2020-06-30
     summary: |
-      GPA: 8.0/10.0
+      Honors, 8.0/10.0 GPA
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Thesis: "Towards parameterless detection of sub-micron particles and soft interfaces; an iPAINT analysis method"
+      Supervised by [Prof. I.K. Voets](https://www.tue.nl/en/research/researchers/ilja-voets).
+    button:
+      text: 'Read Thesis'
+      url: 'http://dx.doi.org/10.13140/RG.2.2.23165.13285'
   - area: B.Sc. Biomedical Engineering
     institution: Eindhoven University of Technology
     date_start: 2014-09-01
     date_end: 2017-08-31
     summary: |
-      Cum Laude
+      Honors, Cum Laude
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Thesis: "The characterization and enzymatic activity of non-covalently bound protein-polymer hybrids"
+      Supervised by [Prof. I.K. Voets](https://www.tue.nl/en/research/researchers/ilja-voets).
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
