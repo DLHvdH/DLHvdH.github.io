@@ -1,6 +1,5 @@
 ---
-title: Predictive modelling of powder compaction for binary mixtures using the finite
-  element method
+title: Predictive modelling of powder compaction for binary mixtures using the finite element method
 authors:
 - admin
 - Frederik H. Ørtoft
@@ -13,4 +12,8 @@ publication_types:
 - article-journal
 publication: '*Powder Technol.*'
 doi: 10.1016/j.powtec.2022.117381
+
+tags:
+  - Finite Element Method
+  - Pharmaceutical
 ---

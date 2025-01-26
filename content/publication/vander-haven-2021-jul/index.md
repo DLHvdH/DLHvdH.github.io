@@ -1,6 +1,5 @@
 ---
-title: Closed-Form Coexistence Equation for Phase Separation of Polymeric Mixtures
-  in Dissipative Particle Dynamics
+title: Closed-Form Coexistence Equation for Phase Separation of Polymeric Mixtures in Dissipative Particle Dynamics
 authors:
 - admin
 - Stephan Köhler

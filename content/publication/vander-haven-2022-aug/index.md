@@ -1,6 +1,5 @@
 ---
-title: Parameterless detection of liquid–liquid interfaces with sub-micron resolution
-  in single-molecule localization microscopy
+title: Parameterless detection of liquid–liquid interfaces with sub-micron resolution in single-molecule localization microscopy
 authors:
 - admin
 - Roderick P. Tas

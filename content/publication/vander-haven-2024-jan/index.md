@@ -11,4 +11,7 @@ publication_types:
 - article-journal
 publication: '*Powder Technol.*'
 doi: 10.1016/j.powtec.2023.119295
+
+tags:
+  - Discrete Element Method
 ---

@@ -13,4 +13,8 @@ publication_types:
 - article-journal
 publication: '*Adv. Powder Technol.*'
 doi: 10.1016/j.apt.2024.104513
+
+tags:
+  - Finite Element Method
+  - Pharmaceutical
 ---

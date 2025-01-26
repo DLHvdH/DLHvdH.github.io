@@ -192,4 +192,4 @@ awards:
 
 ## About Me
 
-Please mind that this website is still under construction!
+Please mind that this website is still under construction! Information may not be correct.

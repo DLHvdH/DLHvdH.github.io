@@ -14,4 +14,8 @@ publication_types:
 - article-journal
 publication: '*Int. J. Pharm.*'
 doi: 10.1016/j.ijpharm.2024.124369
+
+tags:
+  - Mechanical Processing
+  - Pharmaceutical
 ---
