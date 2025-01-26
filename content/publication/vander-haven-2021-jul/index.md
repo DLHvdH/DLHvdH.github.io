@@ -2,7 +2,7 @@
 title: Closed-Form Coexistence Equation for Phase Separation of Polymeric Mixtures
   in Dissipative Particle Dynamics
 authors:
-- Dingeman L. H. van der Haven
+- admin
 - Stephan Köhler
 - Eduard Schreiner
 - Pieter J. In ′t Veld

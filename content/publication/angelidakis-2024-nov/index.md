@@ -21,4 +21,12 @@ publication_types:
 - article-journal
 publication: '*Comput. Phys. Commun.*'
 doi: 10.1016/j.cpc.2024.109293
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+image:
+  caption: 'Graphical abstract, used under CC BY 4.0 license.'
+  focal_point: ''
+  preview_only: false
+
 ---
