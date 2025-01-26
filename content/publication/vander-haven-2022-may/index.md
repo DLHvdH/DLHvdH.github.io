@@ -4,7 +4,7 @@ title: Predictive modelling of powder compaction for binary mixtures using the f
 authors:
 - Dingeman L. H. van der Haven
 - Frederik H. Ørtoft
-- Kaisa Naelapıfmmode\ddota\elseä\fiıfmmode\ddota\elseä\fi
+- Kaisa Naelapää
 - Ioannis S. Fragkopoulos
 - James A. Elliott
 date: '2022-05-01'

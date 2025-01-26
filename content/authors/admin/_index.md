@@ -192,4 +192,4 @@ awards:
 
 ## About Me
 
-Danny van der Haven is ...
+Please mind that this website is still under construction!

@@ -3,10 +3,10 @@ title: Parameterless detection of liquid–liquid interfaces with sub-micron res
   in single-molecule localization microscopy
 authors:
 - Dingeman L. H. van der Haven
-- Roderick Prudent Tas
+- Roderick P. Tas
 - Pim van der Hoorn
 - Remco van der Hofstad
-- Ilja Karina Voets
+- Ilja K. Voets
 date: '2022-08-01'
 publishDate: '2025-01-26T18:17:07.824064Z'
 publication_types:
