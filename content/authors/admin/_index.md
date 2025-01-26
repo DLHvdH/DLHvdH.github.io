@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Dingeman L.H. van der Haven
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Danny
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Dingeman Danny
+last_name: van der Haven
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: ⚙️
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,64 +20,77 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Postdoctoral Research Fellow
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Collegium Helveticum & ETH Zurich
+    url: https://www.collegium.ethz.ch/fellows/fellow-year-2024-2025/danny-van-der-haven
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:vanderhaven@collegium.ethz.ch'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  - icon: custom/gitlab
+    url: https://gitlab.com/DLHvdH
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/DLHvdH
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/danny-vd-haven/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=bOlnJwcAAAAJ&hl=en
+    - icon: custom/researchgate
+    url:   - icon: academicons/orcid
+    url: https://orcid.org/my-orcid?orcid=0000-0002-5120-4279
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/my-orcid?orcid=0000-0002-5120-4279
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Granular matter
+  - Computational Mechanics
+  - Model parametrisation
+  - Advanced characterisation methods
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Ph.D. Computational Methods for Materials Science
+    institution: University of Cambridge
+    date_start: 2021-10-01
+    date_end: 2024-08-31
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: M.Phil. Scientific Computing
+    institution: University of Cambridge
+    date_start: 2020-10-01
+    date_end: 2021-09-31
     summary: |
-      GPA: 3.8/4.0
+      Distinction
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: M.Sc. Chemical Engineering
+    institution: Eindhoven University of Technology
+    date_start: 2017-09-01
+    date_end: 2020-06-31
     summary: |
-      GPA: 3.4/4.0
+      GPA: 8.0/10.0
+      
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: B.Sc. Biomedical Engineering
+    institution: Eindhoven University of Technology
+    date_start: 2014-09-01
+    date_end: 2017-08-31
+    summary: |
+      Cum Laude
       
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -144,9 +157,11 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
+  - name: Dutch
+    percent: 100
+  - name: German
+    percent: 30
+  - name: Spanish
     percent: 25
 
 # Awards.
@@ -183,4 +198,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Danny van der Haven is ...
