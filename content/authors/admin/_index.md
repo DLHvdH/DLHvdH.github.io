@@ -55,8 +55,8 @@ interests:
 education:
   - area: Ph.D. Computational Methods for Materials Science
     institution: University of Cambridge
-    date_start: 2021-10-01
-    date_end: 2024-08-31
+    date_start: '2021-10-01'
+    date_end: '2024-08-31'
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
@@ -64,8 +64,8 @@ education:
       url: 'https://example.com'
   - area: M.Phil. Scientific Computing
     institution: University of Cambridge
-    date_start: 2020-10-01
-    date_end: 2021-09-31
+    date_start: '2020-10-01'
+    date_end: '2021-09-31'
     summary: |
       Distinction
 
@@ -75,8 +75,8 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: M.Sc. Chemical Engineering
     institution: Eindhoven University of Technology
-    date_start: 2017-09-01
-    date_end: 2020-06-30
+    date_start: '2017-09-01'
+    date_end: '2020-06-30'
     summary: |
       GPA: 8.0/10.0
       
@@ -86,8 +86,8 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: B.Sc. Biomedical Engineering
     institution: Eindhoven University of Technology
-    date_start: 2014-09-01
-    date_end: 2017-08-31
+    date_start: '2014-09-01'
+    date_end: '2017-08-31'
     summary: |
       Cum Laude
       
