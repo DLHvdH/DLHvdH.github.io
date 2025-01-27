@@ -24,7 +24,7 @@ tags:
   - Mechanical Processing
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
