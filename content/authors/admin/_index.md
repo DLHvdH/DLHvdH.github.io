@@ -3,7 +3,7 @@
 title: Danny van der Haven
 
 # Name pronunciation (optional)
-name_pronunciation: Dingeman L.H.
+name_pronunciation: Dingeman L.H. van der Haven
 
 # Full name (for SEO)
 first_name: Dingeman Danny
