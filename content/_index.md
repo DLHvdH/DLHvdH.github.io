@@ -35,11 +35,9 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I develop both numerical and experimental methods to better understand granular materials like sand and powders. My long-term goal is create a numerical-theoretical framework that can prediction mechanical behaviours such as compression and seepage using only a tiny amount of material, say a sugar cube in volume, for calibration. I apply my methods to industrial processes (e.g. pharmaceutical powder compression) and natural systems (e.g. slope stability) to shorten development times as well as improve safety and sustainability. 
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        Feel free to reach out! 😃
     design:
       columns: '1'
   - block: collection
