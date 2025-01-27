@@ -8,7 +8,7 @@ date: '2023-09-01'
 publishDate: '2025-01-26T18:17:07.811477Z'
 publication_types:
 - article-journal
-publication: '*Comput. Methods Appl. Mech. Eng.*'
+publication: '*Computer Methods in Applied Mechanics and Engineering*'
 doi: 10.1016/j.cma.2023.116165
 
 abstract: The properties of granular materials depend strongly on the shapes of their individual constituent particles or granules. Nonetheless, incorporating the effects of non-spherical or complex particle shapes into existing modelling frameworks, such as the discrete element method (DEM), has remained challenging. In this work, we propose the volume-interaction level set DEM (VLS-DEM) approach for carrying out physically accurate simulations of particles with arbitrary geometries. VLS-DEM builds upon level set DEM (LS-DEM), both of which implicitly define the geometry of a particle through a discrete signed distance function. However, instead of using surface nodes to compute the interparticle forces, VLS-DEM uses the overlap volume as computed by an Octree integration algorithm. This addresses some of the shortcomings of LS-DEM in terms of the accuracy and precision of the shape description and opens up the possibility for bottom-up parametrisation methods. A number of tests were performed to compare VLS-DEM with regular DEM, LS-DEM, and analytical models. VLS-DEM is shown to give physically accurate results, comparable to analytical theory, even for highly complex systems such as those with concave interlocked particles.
