@@ -41,7 +41,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Dingeman L.H. van der Haven. This work is licensed under {license}. Background image by [SVGBackgrounds.com](https://www.svgbackgrounds.com/).'
+    notice: '© {year} Dingeman L.H. van der Haven. This work is licensed under {license}.'
     license:
       enable: true
       allow_derivatives: false
