@@ -4,3 +4,8 @@
     --tw-prose-lead: #ffffff !important;
     --tw-prose-links: #ffffff !important;
   }
+.dark .prose-invert,
+.dark .resume-biography,
+.dark .resume-biography p {
+  color: white !important;
+}
