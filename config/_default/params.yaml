@@ -6,7 +6,7 @@
 # Appearance
 appearance:
   mode: system
-  color: emerald
+  color: amber
 
 # SEO
 marketing:
@@ -16,6 +16,8 @@ marketing:
     org_name: 'ETH Zurich'
     description: 'Research of Danny van der Haven'
     twitter: ''
+    images:
+     - "favicon.svg"
   analytics:
     google_analytics: ''
     baidu_tongji: ''
