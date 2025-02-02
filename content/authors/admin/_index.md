@@ -163,31 +163,41 @@ work:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: Royce Equipment Access Scheme
+    url: https://www.royce.ac.uk/collaborate/students/
+    date: '2022-09-28'
+    awarder: Henry Royce Institute
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+      Grant awarded to Ph.D. students for the use of high-end scientific equipment available within the Henry Royce Instutite.
+  - title: Sint Geertruidsleen Scholarship
+    url: http://sintgeertruidsleen.nl/
+    date: '2020-06-30'
+    awarder: Sint Geertruidsleen te Abbega
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
+      An international scholarship offering support to promising students to pursue a degree in their field of interest.
+  - title: Stimuleringsfonds Metropoolregio Eindhoven
+    url: https://metropoolregioeindhoven.nl/subsidies/stimuleringsfonds-projecten
+    date: '2018-02-28'
+    awarder: Metropoolregio Eindhoven
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      A subsidised grant offered to entrepreneurs for the development of their business to support innovation, collaboration, and the economy of the local area.
+  - title: Thermo Fisher Scientific Award
+    url: https://www.ed.nl/eindhoven/tu-e-studenten-willen-verzuurde-sportspieren-voor-zijn~ac1dca2e/
+    date: '2017-06-30'
+    awarder: Thermo Fisher Scientific
+    summary: |
+      Prize awarded to participants of the [TU/e Contest](https://www.tue.nl/en/education/tue-innovation-space/tue-contest) for the development of an innovative business idea. Reached second place in the overall TU/e Contest.
+  - title: ASML Makers Award
+    url: https://www.ed.nl/eindhoven/tu-e-studenten-willen-verzuurde-sportspieren-voor-zijn~ac1dca2e/
+    date: '2017-06-30'
+    awarder: ASML
+#    icon: datacamp
+    summary: |
+      Prize awarded to participants of the [TU/e Contest](https://www.tue.nl/en/education/tue-innovation-space/tue-contest) for the development of an innovative business idea. Reached second place in the overall TU/e Contest.
+  - title: 'Travel grants & other minor awards'
+    date: '2016-10-30'
+    summary: |
+      Travel grant (2024, Cambridge Philosophical Society), Travel grant (2024, Armourers & Braseirs Gauntlet Trust), Travel grant (2024, Gordon Research Conferences), Presentation prize (2023, Lennard-Jones Centre), Travel grant (2023, IOM3), Johnston Prize (2021, Hughes Hall, University of Cambridge), Sixma Ogranic Chemistry prize (2016, Prof. Bert Meijer, Eindhoven University of Technology).
 ---
 
 ## About Me
