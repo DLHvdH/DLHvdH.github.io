@@ -47,10 +47,10 @@ profiles:
     url: https://orcid.org/my-orcid?orcid=0000-0002-5120-4279
 
 interests:
-  - Granular matter
+  - Granular Matter
   - Computational Mechanics
   - Mechanical Processing
-  - Particle characterisation
+  - Particle Characterisation
 
 education:
   - area: Ph.D. Computational Methods for Materials Science
