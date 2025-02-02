@@ -1,9 +1,6 @@
-.dark {
-    color: white !important;  /* Ensures text is white */
-}
 .dark .prose-invert {
-    --tw-prose-body: white !important;
-    --tw-prose-headings: white !important;
-    --tw-prose-lead: white !important;
-    --tw-prose-links: white !important;
-}
+    --tw-prose-body: #ffffff !important; /* Makes text pure white */
+    --tw-prose-headings: #ffffff !important; /* Ensures headings are white */
+    --tw-prose-lead: #ffffff !important;
+    --tw-prose-links: #ffffff !important;
+  }
