@@ -16,8 +16,7 @@ marketing:
     org_name: 'ETH Zurich'
     description: 'Research of Danny van der Haven'
     twitter: ''
-    images:
-     - "assets/media/icon.png"
+    images: 'assets/media/icon.png'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -37,7 +36,7 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "van der Haven"
+      text: "Danny van der Haven"
 
 # Site footer
 footer:
