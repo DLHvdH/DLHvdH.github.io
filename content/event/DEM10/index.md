@@ -1,7 +1,6 @@
 ---
-title: T.B.D.
-
-event: DEM10 - 10th internation conference on the discrete element method
+title: Fast hierarchical FEM-DEM simulations
+event: DEM10 - 10th International Conference on Discrete Element Methods
 event_url: https://www.sptj.jp/dem10/
 
 location: Japan
@@ -12,8 +11,8 @@ address:
   postcode: '670-0836'
   country: Japan
 
-summary: In progress.
-abstract: 'T.B.D.'
+summary: I will attend this event.
+abstract: 'To be determined.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
