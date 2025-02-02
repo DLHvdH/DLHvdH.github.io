@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: ""
+title: "van der Haven"
 date: 2025-01-27
 type: landing
 
