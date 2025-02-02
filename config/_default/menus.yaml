@@ -10,7 +10,7 @@ main:
   - name: News
     url: news/
     weight: 11
-  - name: Conferences
+  - name: Events
     url: event/
     weight: 12
   - name: Publications
