@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: "van der Haven"
+title: "Danny van der Haven"
 date: 2025-01-27
 type: landing
 
@@ -19,12 +19,12 @@ sections:
         text: Download CV
         url: uploads/resume.pdf
     design:
-      css_class: light
+      css_class: dark
       background:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: stacked-peaks.svg
+          filename: endless-constellation.svg
           filters:
             brightness: 1.0
           size: cover
