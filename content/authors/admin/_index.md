@@ -203,4 +203,4 @@ awards:
 
 ## About Me
 
-Please mind that this website is still under construction! Information may not be correct.
+I am a researcher in computational mechanics with a focus on granular materials and their impact on environmental and industrial systems. My work combines physics-based modeling, high-performance computing, and experimental validation to develop predictive methods for complex particulate systems. With applications spanning pharmaceuticals, civil engineering, and natural resource management, I aim to bridge fundamental science with practical impact. I am also committed to open-source software development and fostering inclusive scientific collaboration.
