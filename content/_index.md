@@ -24,10 +24,10 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: endless-constellation.svg
+          filename: hexagonal-amber.jpg
           filters:
             brightness: 1.0
-          size: auto
+          size: cover
           position: center
           parallax: false
   - block: markdown
