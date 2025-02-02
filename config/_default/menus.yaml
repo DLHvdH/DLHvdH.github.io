@@ -7,15 +7,15 @@ main:
   - name: Biography
     url: /
     weight: 10
+  - name: Conferences
+    url: event/
+    weight: 12
   - name: Publications
     url: publication/
     weight: 11
-  - name: Talks
-    url: event/
-    weight: 12
-  - name: News
-    url: post/
-    weight: 13
+#  - name: News
+#    url: post/
+#    weight: 13
   - name: Experience
     url: experience/
     weight: 20
