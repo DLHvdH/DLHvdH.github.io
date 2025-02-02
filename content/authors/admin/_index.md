@@ -196,6 +196,7 @@ awards:
       Prize awarded to participants of the [TU/e Contest](https://www.tue.nl/en/education/tue-innovation-space/tue-contest) for the development of an innovative business idea. Reached second place in the overall TU/e Contest.
   - title: 'Travel grants & other minor awards'
     date: '2016-10-30'
+    awarder: Various
     summary: |
       Travel grant (2024, Cambridge Philosophical Society), Travel grant (2024, Armourers & Braseirs Gauntlet Trust), Travel grant (2024, Gordon Research Conferences), Presentation prize (2023, Lennard-Jones Centre), Travel grant (2023, IOM3), Johnston Prize (2021, Hughes Hall, University of Cambridge), Sixma Ogranic Chemistry prize (2016, Prof. Bert Meijer, Eindhoven University of Technology).
 ---
