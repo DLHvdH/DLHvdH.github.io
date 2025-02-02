@@ -17,7 +17,7 @@ marketing:
     description: 'Research of Danny van der Haven'
     twitter: ''
     images:
-     - "favicon.svg"
+     - "assets/media/icon.png"
   analytics:
     google_analytics: ''
     baidu_tongji: ''
