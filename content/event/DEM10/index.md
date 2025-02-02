@@ -11,7 +11,7 @@ address:
   postcode: '670-0836'
   country: Japan
 
-summary: I will attend this event.
+summary: I will attend this event. Abstract submitted for oral presentation.
 abstract: 'To be determined.'
 
 # Talk start and end times.

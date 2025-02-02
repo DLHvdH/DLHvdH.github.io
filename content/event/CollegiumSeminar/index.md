@@ -31,9 +31,9 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: true
 
-#image:
-#  caption: 'Image credit: [**DEM10**](https://www.sptj.jp/dem10/)'
-#  focal_point: Right
+image:
+  caption: 'Image credit: [**Tambako The Jaguar**](https://www.flickr.com/photos/tambako/with/54242163573)'
+  focal_point: Right
 
 
 ---
