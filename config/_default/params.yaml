@@ -5,7 +5,7 @@
 
 # Appearance
 appearance:
-  mode: system
+  mode: dark
   color: amber
 
 # SEO
@@ -25,7 +25,7 @@ marketing:
     fathom: ''
     pirsch: ''
   verification:
-    google: '<meta name="google-site-verification" content="o95gzKca3tcn6QsffPj2QwbD_qumghnu4pyB_G55Ywo" />'
+    google: ''
     baidu: ''
 
 # Site header
