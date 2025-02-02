@@ -33,7 +33,7 @@ featured: true
 
 image:
   caption: 'Image credit: [**Tambako The Jaguar**](https://www.flickr.com/photos/tambako/with/54242163573)'
-  focal_point: Right
+  focal_point: Center
 
 
 ---
