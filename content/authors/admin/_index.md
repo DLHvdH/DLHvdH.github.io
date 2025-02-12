@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:vanderhaven@collegium.ethz.ch'
+    url: 'mailto:vanderhaven [at] collegium.ethz.ch'
     label: E-mail Me
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=bOlnJwcAAAAJ&hl=en
