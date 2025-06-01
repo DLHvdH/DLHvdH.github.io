@@ -1,7 +1,7 @@
 ---
 title: Modelling of granular materials - Integrating data, computation, and physics
 event: Symposium
-event_url: T.b.d.
+event_url: https://collegium.ethz.ch/events/fellow-year-2024-2025/modelling-of-granular-materials
 
 location: Collegium Helveticum
 address:
@@ -11,8 +11,8 @@ address:
   postcode: '8092'
   country: Switzerland
 
-summary: I am organising this event.
-abstract: 'To be determined.'
+summary: I organised this conference.
+abstract: 'The complexity of granular matter has long eluded any straightforward theory or computational model. As a consequence, predictions of the flow and mechanics of materials such as sand remain incredibly difficult. During this international symposium, various experts will present recent advances on the modeling of granular materials, including perspectives from physics and numerical methods, but also the calibration thereof and the integration of data-driven methodologies.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
