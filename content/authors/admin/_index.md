@@ -48,7 +48,7 @@ profiles:
 
 interests:
   - Granular Matter
-  - Computational Mechanics
+  - Computational (Geo)Mechanics
   - Mechanical Processing
   - Particle Characterisation
 
@@ -105,14 +105,25 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2024-09-02
-    date_end: ''
+    date_end: '2025-06-30'
     summary: |
       Developing a fast hierarchical multiscale model of granular matter to improve predictions of e.g. sand. I use the discrete element method (DEM) to derive the constituitive behaviour while the finite element method (FEM) provides the boundary conditions. Advanced statistical methods are then used to reduce the number of required DEM simulations.
 
-      Supervised by [Prof. David Kammer](https://ifb.ethz.ch/the-institute/people/person-detail.MjUwODc1.TGlzdC8xMDYwLC0xNTk5MjE4NDY3.html).
+      Mentored by [Prof. David Kammer](https://ifb.ethz.ch/the-institute/people/person-detail.MjUwODc1.TGlzdC8xMDYwLC0xNTk5MjE4NDY3.html).
     button:
       text: 'Project Website'
       url: 'https://collegium.ethz.ch/projects/fellow-year-2024-2025/saving-sand'
+  - position: Postdoctoral Researcher
+    company_name: Shanghai Jiao Tong University (上海交通大学)
+    company_url: ''
+    company_logo: ''
+    date_start: 2025-11-01
+    date_end: ''
+    summary: |
+      Advancing methods for large-scale simulations of granular materials with grain breakage. I am also continuing my research on pharmaceutical powder processing and supporting students working on similar topics, including jet milling and battery electrode calendering.
+
+      Supervised by [Prof. Xizhong Chen](https://scce.sjtu.edu.cn/en/Faculty_Directory/385.html).
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -163,6 +174,12 @@ work:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
+  - title: Early-Career Fellowship
+    url: https://www.collegium.ethz.ch/fellows/fellow-year-2024-2025/danny-van-der-haven
+    date: '2024-09-01'
+    awarder: Collegium Helveticum
+    summary: |
+      Competitive fellowship awarded to young scholars to perform highly interdisciplinary research on a topic of their own choosing.
   - title: Royce Equipment Access Scheme
     url: https://www.royce.ac.uk/collaborate/students/
     date: '2022-09-28'
