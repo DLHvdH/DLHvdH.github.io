@@ -1,5 +1,5 @@
 ---
-title: "Grain Fracture in the Level-Set Discrete Element Method LS-DEM: Can We Distinguish Between Splitting, Chipping, and Fragmentation?"
+title: "Grain fracture in the Level-Set Discrete Element Method: Can we distinguish between splitting, chipping, and fragmentation?"
 event: 2nd International Workshop of Geomechanics Alliance In Asia
 event_url: https://gaia2026.hi97.cn/
 
