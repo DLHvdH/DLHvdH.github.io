@@ -1,6 +1,6 @@
 ---
 title: Getting Down to Fundamentals
-summary: Book contribution to "Granular Configurations: Sand, Materiality and Planetary Urbanization" edited by Michaela Büsse.
+summary: 'Book contribution to "Granular Configurations: Sand, Materiality and Planetary Urbanization" edited by Michaela Büsse.'
 date: 2025-10-01
 authors:
   - admin
