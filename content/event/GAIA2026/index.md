@@ -32,7 +32,8 @@ featured: true
 
 image:
   caption: 'Image credit: [**GAIA**](https://gaia2026.hi97.cn/)'
-  focal_point: Right
+  focal_point: Center
+  preview_only: false
 
 
 ---
