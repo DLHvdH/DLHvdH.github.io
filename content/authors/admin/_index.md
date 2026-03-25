@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Postdoctoral Research Fellow
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: ETH Zurich & Collegium Helveticum 
-    url: https://www.collegium.ethz.ch/fellows/fellow-year-2024-2025/danny-van-der-haven
+  - name: Shanghai Jiao Tong University
+    url: https://en.sjtu.edu.cn/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -100,6 +100,16 @@ education:
       Thesis: "The characterization and enzymatic activity of non-covalently bound protein-polymer hybrids"
       Supervised by [Prof. I.K. Voets](https://www.tue.nl/en/research/researchers/ilja-voets).
 work:
+  - position: Postdoctoral Researcher
+    company_name: Shanghai Jiao Tong University (上海交通大学)
+    company_url: ''
+    company_logo: ''
+    date_start: 2025-11-01
+    date_end: ''
+    summary: |
+      Advancing computationally efficient fracture models to enable large-scale simulation of soils considering grain breakage. I am also continuing my research on pharmaceutical powder processing and supporting students working on similar topics, including jet milling and battery electrode calendering.
+
+      Supervised by [Prof. Xizhong Chen](https://scce.sjtu.edu.cn/en/Faculty_Directory/385.html).
   - position: Postdoctoral Research Fellow
     company_name: ETH Zurich & Collegium Helveticum
     company_url: ''
@@ -113,16 +123,6 @@ work:
     button:
       text: 'Project Website'
       url: 'https://collegium.ethz.ch/projects/fellow-year-2024-2025/saving-sand'
-  - position: Postdoctoral Researcher
-    company_name: Shanghai Jiao Tong University (上海交通大学)
-    company_url: ''
-    company_logo: ''
-    date_start: 2025-11-01
-    date_end: ''
-    summary: |
-      Advancing methods for large-scale simulations of granular materials with grain breakage. I am also continuing my research on pharmaceutical powder processing and supporting students working on similar topics, including jet milling and battery electrode calendering.
-
-      Supervised by [Prof. Xizhong Chen](https://scce.sjtu.edu.cn/en/Faculty_Directory/385.html).
 
 
 # Skills

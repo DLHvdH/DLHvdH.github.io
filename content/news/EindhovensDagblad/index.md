@@ -6,4 +6,4 @@ authors:
   - admin
 ---
 
-Article about our start-up in the regional newspaper. Translated title ”TU/e-students want to be ahead of acidified muscles during sports”. [LINK](https://www.ed.nl/eindhoven/tu-e-studenten-willen-verzuurde-sportspieren-voor-zijn~ac1dca2e/)
+[Article](https://www.ed.nl/eindhoven/tu-e-studenten-willen-verzuurde-sportspieren-voor-zijn~ac1dca2e/) about our start-up in the regional newspaper. Translated title ”TU/e-students want to be ahead of acidified muscles during sports”.
