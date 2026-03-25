@@ -18,7 +18,7 @@ abstract: 'The complexity of granular matter has long eluded any straightforward
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2025-04-30T13:00:00Z'
 date_end: '2025-04-30T18:00:00Z'
-all_day: false
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: '2017-01-01T00:00:00Z'
