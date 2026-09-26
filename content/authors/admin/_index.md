@@ -24,8 +24,8 @@ role: Postdoctoral Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Shanghai Jiao Tong University
-    url: https://en.sjtu.edu.cn/
+  - name: Imperial College London
+    url: https://profiles.imperial.ac.uk/d.vanderhaven
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -100,12 +100,22 @@ education:
       Thesis: "The characterization and enzymatic activity of non-covalently bound protein-polymer hybrids"
       Supervised by [Prof. I.K. Voets](https://www.tue.nl/en/research/researchers/ilja-voets).
 work:
+  - position: Postdoctoral Research Fellow
+    company_name: Imperial College London
+    company_url: ''
+    company_logo: ''
+    date_start: 2026-09-01
+    date_end: ''
+    summary: |
+      Eric and Wendy Schmidt AI in Science Fellowship, shared position between the IX Centre for AI in Science and the Department of Civil and Environmental Engineering. Developing AI constitutive models of soils for the purpose of improving offshore wind turbine foundations.
+
+      Supervised by [Prof. Catherine O'Sullivan](https://profiles.imperial.ac.uk/cath.osullivan).
   - position: Postdoctoral Researcher
     company_name: Shanghai Jiao Tong University (上海交通大学)
     company_url: ''
     company_logo: ''
     date_start: 2025-11-01
-    date_end: ''
+    date_end: '2026-08-10'
     summary: |
       Advancing computationally efficient fracture models to enable large-scale simulation of soils considering grain breakage. I am also continuing my research on pharmaceutical powder processing and supporting students working on similar topics, including jet milling and battery electrode calendering.
 
