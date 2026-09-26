@@ -35,7 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I develop both numerical and experimental methods to better understand granular materials such as sands and powders. My long-term goal is create a numerical-theoretical framework that can prediction mechanical behaviours such as compression, flow, and seepage using only a tiny amount of material, say a sugar cube in volume, for calibration. I apply my methods to industrial processes (e.g. pharmaceutical powder compression) and natural systems (e.g. slope stability) to shorten development times as well as improve safety and sustainability. 
+        I develop both numerical and experimental methods to better understand granular materials such as sands and powders. My long-term goal is create a numerical-theoretical framework that can prediction mechanical behaviours such as compression, flow, and settlement using only a tiny amount of material, say a sugar cube in volume, for calibration. I apply my methods to industrial processes (e.g. pharmaceutical powder compression) and natural systems (e.g. soil behaviour) to shorten development times as well as improve safety and sustainability. 
 
         Feel free to reach out! 😃
     design:
